@@ -1,4 +1,4 @@
-# MySQL Connector/J
+# MySQL Connector/J 8.0.8
 
 MySQL provides connectivity for client applications developed in the Java programming language with MySQL Connector/J, a driver that implements the [Java Database Connectivity (JDBC) API](http://www.oracle.com/technetwork/java/javase/jdbc/).
 
